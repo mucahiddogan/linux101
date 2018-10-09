@@ -1,5 +1,10 @@
 # LYK2017-Linux1
+
+## Linux101 slayt => http://slides.com/mucahiddogan/deck#/
+
 LYK2017 Gnu/Linux Sistem Yönetimi(1. Düzey) Notlarım
+
+
 
 **Yapılacaklar**
 
